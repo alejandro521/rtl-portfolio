@@ -25,12 +25,14 @@ This portfolio reflects the following technical competencies:
 - **Hardware Description Languages**: Verilog, SystemVerilog
 - **Verification Methodologies**: UVM, traditional Verilog testbenches
 - **FPGA Tools**: Xilinx Vivado
-- **ASIC Tools**: Although not used in projects here, I have used tools such as Synopsys VCS and Cadence Genus & Innovus when I was in school
 - **Scripting and Automation**: Python
 - **Circuit Design & Debugging**: Digital circuit design, debugging, optimization
 - **Design & Performance Metrics**: Timing, resource utilization, and power analysis
 - **SoC Components**: CPUs, caches, memory controllers, interconnects
 - **Linux**: Workflow and toolchain management on Linux OS
+
+Additional:
+- **ASIC Tools**: Although not used in the projects here, I have used tools such as Synopsys VCS and Cadence Genus and Innovus back when I was in school
 
 ## Projects Overview
 
