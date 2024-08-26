@@ -1,0 +1,51 @@
+# Vivado-generated files
+vivado_project/
+*.xpr
+*.log
+*.jou
+*.rpt
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.webtalk/
+*.Xil/
+
+# Bitstreams and other binary files
+*.bit
+*.bin
+*.elf
+*.wdb
+*.xsa
+
+# Synth and impl directories
+synth/
+impl/
+.reports/
+*.rdi
+
+# Miscellaneous editor or OS-specific files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary simulation files
+simv
+simv.daidir/
+ucli.key
+csrc/
+.vlogansetup.env
+.vlogansetup.args
+.stackdump
+.vivado/
+transcript
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+*.vscode/
