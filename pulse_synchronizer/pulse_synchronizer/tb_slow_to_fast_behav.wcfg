@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_slow_to_fast_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_slow_to_fast" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="6,255.001 ns"></ZoomEndTime>
+      <Cursor1Time time="6,068.463 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="112"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/n_rst_a">
+      <obj_property name="ElementShortName">n_rst_a</obj_property>
+      <obj_property name="ObjectShortName">n_rst_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/n_rst_b">
+      <obj_property name="ElementShortName">n_rst_b</obj_property>
+      <obj_property name="ObjectShortName">n_rst_b</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/clk_a">
+      <obj_property name="ElementShortName">clk_a</obj_property>
+      <obj_property name="ObjectShortName">clk_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/clk_b">
+      <obj_property name="ElementShortName">clk_b</obj_property>
+      <obj_property name="ObjectShortName">clk_b</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/signal">
+      <obj_property name="ElementShortName">signal</obj_property>
+      <obj_property name="ObjectShortName">signal</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/pulse_a">
+      <obj_property name="ElementShortName">pulse_a</obj_property>
+      <obj_property name="ObjectShortName">pulse_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_slow_to_fast/pulse_b">
+      <obj_property name="ElementShortName">pulse_b</obj_property>
+      <obj_property name="ObjectShortName">pulse_b</obj_property>
+   </wvobject>
+</wave_config>
