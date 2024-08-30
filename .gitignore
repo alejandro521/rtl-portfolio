@@ -12,6 +12,7 @@ vivado_project/
 *.ip_user_files/
 *.webtalk/
 *.Xil/
+*.wcfg
 
 # Bitstreams and other binary files
 *.bit
