@@ -38,7 +38,6 @@ Additional:
 
 This portfolio is organized into multiple projects, each targeting a specific set of skills and concepts relevant to ASIC/FPGA design or verification roles.
 
-...
 
 ## Goals
 
