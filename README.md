@@ -36,17 +36,7 @@ Additional:
 
 ## Projects Overview
 
-This portfolio is organized into multiple projects, each targeting a specific set of skills and concepts relevant to ASIC/FPGA design or verification roles:
-
-### 1. [Project Title 1]
-- **Description**: Brief explanation of the project.
-- **Key Skills**: (e.g., SystemVerilog, UVM, Memory Controller Design, Post-synthesis Analysis)
-- **Tools Used**: Xilinx Vivado, Python, etc.
-
-### 2. [Project Title 2]
-- **Description**: Brief explanation of the project.
-- **Key Skills**: (e.g., SoC Design, Cache Implementation, FPGA Prototyping)
-- **Tools Used**: Synopsys VCS, Cadence Innovus, etc.
+This portfolio is organized into multiple projects, each targeting a specific set of skills and concepts relevant to ASIC/FPGA design or verification roles.
 
 ...
 
